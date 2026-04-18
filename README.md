@@ -39,5 +39,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeIt-Abhay/CodeIt-Abhay/output/github-contribution-grid-snake-dark.svg" alt="Snake game" />
+  <img src="https://raw.githubusercontent.com/CodeIt-Abhay/CodeIt-Abhay/output/github-contribution-grid-snake-dark.svg" />
 </p>
