@@ -15,13 +15,6 @@
 
 ---
 
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhay-pratap-a50570368/"><img src="https://img.shields.io/badge/LinkedIn-abhaypratap-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:theabhay101@gmail.com"><img src="https://img.shields.io/badge/Gmail-theabhay101@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
 ### 🛠 Tech Stack
 
 <p align="center">
@@ -35,9 +28,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeIt-Abhay&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📫 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeIt-Abhay/CodeIt-Abhay/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://www.linkedin.com/in/abhay-pratap-a50570368/"><img src="https://img.shields.io/badge/LinkedIn-abhaypratap-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:theabhay101@gmail.com"><img src="https://img.shields.io/badge/Gmail-theabhay101@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeIt-Abhay/CodeIt-Abhay/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeIt-Abhay/CodeIt-Abhay/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/CodeIt-Abhay/CodeIt-Abhay/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
