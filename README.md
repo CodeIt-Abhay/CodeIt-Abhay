@@ -1,6 +1,12 @@
 <h1 align="center">Hi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlzaGpyZ2hsb2x3cnVwbzA0bnRoZzRlMGlramF2MnZsMjJ2OWZmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40">, I'm Abhay Pratap</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<p align="center">
+  <a href="https://CodeIt-Abhay.github.io">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Work-CodeIt--Abhay.github.io-e85d04?style=for-the-badge" />
+  </a>
+</p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=CodeIt-Abhay&label=Profile%20views&color=0e75b6&style=flat" alt="ojasvix20" /> </p>
 
 
