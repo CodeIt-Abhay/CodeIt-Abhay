@@ -38,6 +38,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeIt-Abhay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeIt-Abhay&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeIt-Abhay&theme=tokyonight" />
+</p>
 
 ### 📫 Connect With Me
 
