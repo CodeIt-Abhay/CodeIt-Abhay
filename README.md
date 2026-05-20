@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=CodeIt-Abhay&label=Profile%20views&color=0e75b6&style=flat" alt="ojasvix20" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=CodeIt-Abhay&label=Profile%20views&color=0e75b6&style=flat" alt="CodeIt-Abhay" /> </p>
 
 
 ### 👨‍💻 About Me
