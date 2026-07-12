@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://CodeIt-Abhay.github.io">
-    <img src="https://img.shields.io/badge/🚀_Explore_My_Work-CodeIt--Abhay.github.io-e85d04?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Work-CodeIt--Abhay-e85d04?style=for-the-badge" />
   </a>
 </p>
 
