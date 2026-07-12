@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="center">
-  <a href="https://CodeIt-Abhay.github.io">
+  <a href="https://https://abhaypratap1.vercel.app/">
     <img src="https://img.shields.io/badge/🚀_Explore_My_Work-CodeIt--Abhay-e85d04?style=for-the-badge" />
   </a>
 </p>
